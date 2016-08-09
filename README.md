@@ -1,11 +1,8 @@
 ## Graham Ormiston
 
-In the last 5 years I've been learning a huge amount running my own small creative consultancy, <a href="http://wearenovo.com/" target="_blank">wearenovo.com</a>. My role was primarily as the sole front-end developer, personally delivering over 70 sites to clients. I've also learnt how to manage projects and freelancers, how to keep a business afloat and client facing skills.
+In the last 5 years I've been learning a huge amount running my own small creative consultancy, [Novo](http://wearenovo.com). My role was primarily as the sole front-end developer, personally delivering over 70 sites to clients. I've also learnt how to manage projects and freelancers, how to keep a business afloat and client facing skills.
 
-I'm looking to become a full stack developer. Having just completed
-<a href="http://www.makersacademy.com/" target="_blank">Makers Academy</a>
-
-(a 16 week intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
+I'm looking to become a full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (a 16 week intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
 
 Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [References](#references) | [Interests](#interests)
 
@@ -17,18 +14,18 @@ Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) |
 
 | Name        | About   | Technologies | Link  |
 | ----------- | ------- | ------------ | ----- |
-| Chasing Shadows      | Final group project at Makers Academy: a mobile game utilising Google Maps JS API, a custom built API server and a native (hybrid) app built in JavaScript and packaged in Cordova | Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server) | <a href="https://github.com/gtormiston/chasing_shadows" target="_blank">Cordova App Repo</a>, <a href="https://github.com/gtormiston/chasing_shadows_api_server" target="_blank">Rails API Repo</a> |
-| Battlecodes | Multiplayer online Codewars-style challenges - first to complete wins | Node.js + Express, JS/HTML/SASS, Socket.io | <a href="https://github.com/gtormiston/battlecodes" target="_blank">Github repo</a>, <a href="https://battlecodes.herokuapp.com" target="_blank">Live Link</a> |
-| MakersBnB | A clone of Air BnB | Ruby, Sinatra, JavaScript | <a href="https://github.com/gtormiston/makersbnb" target="_blank">Github Repo</a> |
+| Chasing Shadows      | Final group project at Makers Academy: a mobile game utilising Google Maps JS API, a custom built API server and a native (hybrid) app built in JavaScript and packaged in Cordova | Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server) | [Cordova App Repo](https://github.com/gtormiston/chasing_shadows), [Rails API Repo](https://github.com/gtormiston/chasing_shadows_api_server) |
+| Battlecodes | Multiplayer online Codewars-style challenges - first to complete wins | Node.js + Express, JS/HTML/SASS, Socket.io | [Github link](https://github.com/gtormiston/battlecodes), [Live link](https://battlecodes.herokuapp.com)|
+| MakersBnB | A clone of Air BnB | Ruby, Sinatra, JavaScript | [Github link](https://github.com/gtormiston/makersbnb)|
 
 *Front-end projects - Novo projects (live)*
 
 | Name        | About   | Technologies | Link  |
 | ----------- | ------- | ------------ | ----- |
-| Senturion | Product Site | PHP, HTML, SASS, jQuery | <a href="http://www.senturionkey.com" target="_blank">Live site</a> |
-| Motion Nutrition | E-commerce Site | WordPress + WooCommerce, bespoke template | <a href="https://www.motionnutrition.com/" target="_blank">Live site</a> |
-| Moorlands College | College Site | WordPress + bespoke template | <a href="http://www.moorlands.ac.uk" target="_blank">Live site</a> |
-| Quintel | Business Site | PHP, HTML, SASS, jQuery | <a href="http://www.quintelintelligence.com/" target="_blank">Live site</a> |
+| Senturion | Product Site | PHP, HTML, SASS, jQuery | [Live Site](http://www.senturionkey.com) |
+| Motion Nutrition | E-commerce Site | WordPress + WooCommerce, bespoke template | [Live Site](https://www.motionnutrition.com/) |
+| Moorlands College | College Site | WordPress + bespoke template | [Live Site](http://www.moorlands.ac.uk) |
+| Quintel | Business Site | PHP, HTML, SASS, jQuery | [Live Site](http://www.quintelintelligence.com/) |
 
 
 ## Skills
@@ -62,7 +59,7 @@ In the last 5 years I've had the opportunity to manage small teams in a variety 
 
 **Novo Studio** (August 2011 to current)    
 *Co-founder*
-<a href="http://wearenovo.com/" target="_blank">wearenovo.com</a>
+[wearenovo.com](http://wearenovo.com/)
 
 **Innovate Product Design** (Jan 2010 to July 2011)   
 *Web and Media Developer*
@@ -88,7 +85,7 @@ In the last 5 years I've had the opportunity to manage small teams in a variety 
 - Testing with Rspec, Capybara, Jasmine, Mocha, Karma, Zombie, Casper
 
 #### Squared / Google Digital Academy (Sept 2015 to Nov 2015)
-*Certificate in Digital Marketing* <a href="https://www.thinkwithgoogle.com/nordics/article/squared-online/" target="_blank">Think with Google</a>
+*Certificate in Digital Marketing* [Think with Google](https://www.thinkwithgoogle.com/nordics/article/squared-online/)
 
 Squared Online is an award-winning digital marketing leadership course developed by Google. I enrolled on this course to help better understand and serve the evolving digital needs of Novo's clients.
 
@@ -122,6 +119,6 @@ Amy Green, *Innovate Product Design*
 
 
 - :trumpet: I'm an **avid musician** playing trumpet, guitar, piano and drums to a high level.
-- :sunny: Brazil, to the extent that I'm **married to a <a href="http://www.rio.com/practical-rio/carioca" target="_blank">Carioca</a>**
-- :bike: Outdoor activities, particularly **road cycling**: <a href="https://www.strava.com/athletes/8497545" target="_blank">my Strava profile</a>
-- :camera: **Photography** and **filming**: <a href="https://instagram.com/gtormiston" target="_blank">my Instagram profile</a>, <a href="https://vimeo.com/novostudiouk" target="_blank">my videos on Vimeo</a>
+- :sunny: Brazil, to the extent that I'm **married to a [Carioca](http://www.rio.com/practical-rio/carioca)**
+- :bike: Outdoor activities, particularly **road cycling**: [my Strava profile](https://www.strava.com/athletes/8497545)
+- :camera: **Photography** and **filming**: [my Instagram profile](https://instagram.com/gtormiston), [my videos on Vimeo](https://vimeo.com/novostudiouk)
