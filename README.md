@@ -2,7 +2,7 @@
 
 In the last 5 years I've been learning a huge amount running my own small creative consultancy, [Novo](http://wearenovo.com). My role was primarily as the sole front-end developer, personally delivering over 70 sites to clients. I've also learnt how to manage projects and freelancers, how to keep a business afloat and client facing skills.
 
-I'm looking to become a full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (an intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
+I'm looking to become a full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (a 16 week long intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
 
 Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Reviews](#reviews) | [Interests](#interests)
 
@@ -12,7 +12,7 @@ Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) |
 
 | Name        | About   | Technologies | Link  |
 | ----------- | ------- | ------------ | ----- |
-| Chasing Shadows      | Final group project at Makers Academy: a mobile game utilising Google Maps JS API | Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server) | [Cordova App Repo](https://github.com/gtormiston/chasing_shadows), [Rails API Repo](https://github.com/gtormiston/chasing_shadows_api_server) |
+| Chasing Shadows      | Final group project at Makers Academy: a mobile game utilising Google Maps JS API, a custom built API server and a native (hybrid) app built in JavaScript and packaged in Cordova | Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server) | [Cordova App Repo](https://github.com/gtormiston/chasing_shadows), [Rails API Repo](https://github.com/gtormiston/chasing_shadows_api_server) |
 | Battlecodes | Multiplayer online Codewars-style challenges - first to complete wins | Node.js + Express, JS/HTML/SASS, Socket.io | [Github link](http://#), [Live link](https://github.com/gtormiston/battlecodes) |
 
 *Front-end projects*
@@ -26,28 +26,30 @@ Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) |
 
 ## Skills
 
-(Not really sure what to put in this section)
+#### Front-end development
 
-#### Front-end developer
+Being a front-end developer has been a major part of my working life since 2011. Roughly half of my work has been based around a WordPress or Joomla CMS with a custom template, with the rest being static sites built with some PHP to add functionality.
 
-Being a front-end developer has been a major part of my working life since 2011.
+- personally built over 70 production websites over 5 years
+- experience working with mainly Linux servers for hosting
+- working with frameworks like jQuery and SASS
 
-**Client website examples**
-- Over 70 websites built, including:
-senturionkey.com, motionnutrition.com, innovate-design.co.uk,
+#### Problem solving
 
-(Finding solutions to existing problems is the essence of being a product designer. I've come to realise that coding is effectively a form of digital product design, requiring design, structure and an understanding of the problem to build elegant solutions.)
+debugging, searching, delving etc
+
+Finding elegant solutions to existing problems is the essence of being a product designer. I've come to realise that coding is effectively a digital form of product design.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Project / Team Management
+####
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-#### Self Starter, Self Trained, Self Motivated
+#### Quick learner
 
 I have a huge passion to learn, whether that's coding, business, music...
 
@@ -84,7 +86,7 @@ I have a huge passion to learn, whether that's coding, business, music...
 #### Brunel University (Sept 2004 to July 2008)
 *BSc (Hons) Industrial Design (2:1)*
 
-The Brunel approach to Product Design is extremely broad, covering theoretical engineering such as electronics, fluid dynamics, mechanics and mathematics, whilst also utilising creative and hands on skills such as problem solving, design, model making, CAD and more. I even studied a web design module, however was surprised to learn how out of date their education was!
+The Brunel approach to Product Design is extremely broad, covering theoretical engineering such as electronics, fluid dynamics, mechanics and mathematics, whilst also utilising creative and hands on skills such as problem solving, design, model making, CAD and more, even some web design.
 
 ## Reviews of my work
 
