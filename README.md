@@ -4,9 +4,11 @@ In the last 5 years I've been learning a huge amount running my own small creati
 
 I'm looking to become a full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (a 16 week intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
 
-Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [References](#references) | [Interests](#stuff-i-really-like)
+Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [References](#references) | [Interests](#interests)
+
 
 ## Projects
+---
 
 *Full-stack projects - Makers Academy*
 
@@ -26,6 +28,7 @@ Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) |
 | Quintel | Business Site | PHP, HTML, SASS, jQuery | [Live Site](http://www.quintelintelligence.com/) |
 
 ## Skills
+---
 
 #### Front-end development
 
@@ -50,6 +53,7 @@ I get most excited when I'm thrown into a situation where I have to learn quickl
 In the last 5 years I've had the opportunity to manage small teams in a variety of contexts, including freelancers on web projects and video shoots. I'm able to *gently motivate and encourage* team members to work towards a shared goal, and like to use an encouraging and supportive style with struggling members to help them reach their potential and gain confidence.
 
 ## Experience
+---
 
 **Novo Studio** (August 2011 to current)    
 *Co-founder*
@@ -65,6 +69,7 @@ In the last 5 years I've had the opportunity to manage small teams in a variety 
 *Graphic Designer*
 
 ## Education
+---
 
 #### Makers Academy (May 2016 to August 2016)
 *Development Bootcamp*
@@ -105,7 +110,7 @@ Duncan Shotton, *Duncan Shotton Design Studio*
 Amy Green, *Innovate Product Design*
 
 
-## Stuff I *really* like
+## Interests
 
 - :trumpet: I'm an **avid musician** playing trumpet, guitar, piano and drums to a high level.
 - :sunny: Brazil, to the extent that I'm **married to a [Carioca](http://www.rio.com/practical-rio/carioca)**
