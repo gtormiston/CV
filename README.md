@@ -8,7 +8,7 @@ Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) |
 
 
 ## Projects
----
+
 
 *Full-stack projects - Makers Academy*
 
@@ -27,8 +27,9 @@ Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) |
 | Moorlands College | College Site | WordPress + bespoke template | [Live Site](http://www.moorlands.ac.uk) |
 | Quintel | Business Site | PHP, HTML, SASS, jQuery | [Live Site](http://www.quintelintelligence.com/) |
 
+
 ## Skills
----
+
 
 #### Front-end development
 
@@ -52,8 +53,9 @@ I get most excited when I'm thrown into a situation where I have to learn quickl
 
 In the last 5 years I've had the opportunity to manage small teams in a variety of contexts, including freelancers on web projects and video shoots. I'm able to *gently motivate and encourage* team members to work towards a shared goal, and like to use an encouraging and supportive style with struggling members to help them reach their potential and gain confidence.
 
+
 ## Experience
----
+
 
 **Novo Studio** (August 2011 to current)    
 *Co-founder*
@@ -68,8 +70,9 @@ In the last 5 years I've had the opportunity to manage small teams in a variety 
 **Yellow Pages** (July 2006 to August 2007)   
 *Graphic Designer*
 
+
 ## Education
----
+
 
 #### Makers Academy (May 2016 to August 2016)
 *Development Bootcamp*
@@ -91,7 +94,9 @@ Squared Online is an award-winning digital marketing leadership course developed
 
 The Brunel approach to Product Design is extremely broad, covering theoretical engineering such as electronics, fluid dynamics, mechanics and mathematics, whilst also utilising creative and hands on skills such as problem solving, design, model making, CAD and more, even some web design.
 
+
 ## References
+
 
 > Graham has delivered three fantastic websites for us - the work was excellent, cost-effective and turned around on time within some tight timescales...
 
@@ -111,6 +116,7 @@ Amy Green, *Innovate Product Design*
 
 
 ## Interests
+
 
 - :trumpet: I'm an **avid musician** playing trumpet, guitar, piano and drums to a high level.
 - :sunny: Brazil, to the extent that I'm **married to a [Carioca](http://www.rio.com/practical-rio/carioca)**
