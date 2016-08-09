@@ -4,18 +4,19 @@ In the last 5 years I've been learning a huge amount running my own small creati
 
 I'm looking to become a full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (a 16 week intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
 
-Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Reviews](#reviews) | [Interests](#interests)
+Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [References](#references) | [Interests](#stuff-i-really-like)
 
 ## Projects
 
-*Full-stack projects*
+*Full-stack projects - Makers Academy*
 
 | Name        | About   | Technologies | Link  |
 | ----------- | ------- | ------------ | ----- |
 | Chasing Shadows      | Final group project at Makers Academy: a mobile game utilising Google Maps JS API, a custom built API server and a native (hybrid) app built in JavaScript and packaged in Cordova | Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server) | [Cordova App Repo](https://github.com/gtormiston/chasing_shadows), [Rails API Repo](https://github.com/gtormiston/chasing_shadows_api_server) |
 | Battlecodes | Multiplayer online Codewars-style challenges - first to complete wins | Node.js + Express, JS/HTML/SASS, Socket.io | [Github link](https://github.com/gtormiston/battlecodes), [Live link](https://battlecodes.herokuapp.com)|
+| MakersBnB | A clone of Air BnB | Ruby, Sinatra, JavaScript | [Github link](https://github.com/gtormiston/makersbnb)|
 
-*Front-end projects*
+*Front-end projects - Novo projects (live)*
 
 | Name        | About   | Technologies | Link  |
 | ----------- | ------- | ------------ | ----- |
@@ -28,25 +29,25 @@ Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) |
 
 #### Front-end development
 
-Being a front-end developer has been a major part of my working life since 2011. Roughly half of my work has been based around a WordPress or Joomla CMS with a template built from scratch, with the rest being static sites built with some PHP to add functionality.
+Being a front-end developer has been a major part of my working life since 2011. Roughly half of my work has been based around a *WordPress* or *Joomla* CMS with a template built from scratch in *HTML, CSS and JS*, with the rest being static sites built with some *PHP* to add functionality.
 
-- personally built over 70 production websites over 5 years
-- experience working with Linux servers for hosting (Command line and cPanel)
-- working with frameworks like jQuery and SASS, vanilla JavaScript, PHP, MySQL
+- personally built *over 70 production websites* over 5 years
+- experience working with *Linux servers* for hosting (*command line* and *cPanel*)
+- working with frameworks like *jQuery and SASS, vanilla JavaScript, PHP, MySQL*
 
 #### Creative problem solving
 
-In my development work I've come to realise that coding is effectively a digital form of product design - and finding elegant solutions to existing problems is the essence of being a good product designer. I'm a quick debugger, with a sharp eye for small details.
+In my development work I've come to realise that coding is effectively a digital form of product design - and *finding elegant solutions* to existing problems is the essence of being a good product designer. I'm a *quick debugger*, with a sharp eye for small details.
 
 #### Rapid learner
 
-I have a passion for learning - I've taught myself much of my front-end knowledge, as well as several musical instruments, videography, some Portuguese... I'm self motivated and don't require coaxing to learn something well.
+I have a passion for learning - I've taught myself much of my front-end knowledge, as well as several musical instruments, videography, a little Portuguese... I'm self motivated and don't require coaxing to learn something well.
 
-I get most excited when I'm thrown into a situation where I have to learn quickly. My time at Makers Academy in particular has taught me *how to learn* as much as anything, meaning I am better equipped to pick up languages quickly and explore new development topics.
+I get most excited when I'm thrown into a situation where I have to learn quickly. My time at Makers Academy in particular has taught me *how to learn* as much as anything, meaning I am better equipped to *pick up languages quickly* and explore new development topics.
 
 #### Comfortable team leader
 
-In the last 5 years I've had the opportunity to manage small teams in a variety of contexts, including freelancers on web projects and video shoots. I'm able to gently motivate and encourage team members to work towards a shared goal, and like to use an encouraging and supportive style with struggling members to help them reach their potential and gain confidence.
+In the last 5 years I've had the opportunity to manage small teams in a variety of contexts, including freelancers on web projects and video shoots. I'm able to *gently motivate and encourage* team members to work towards a shared goal, and like to use an encouraging and supportive style with struggling members to help them reach their potential and gain confidence.
 
 ## Experience
 
@@ -68,12 +69,12 @@ In the last 5 years I've had the opportunity to manage small teams in a variety 
 #### Makers Academy (May 2016 to August 2016)
 *Development Bootcamp*
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD/BDD, SOLID, MVC
 - Software Craftsmanship
 - Javascript, Node.js, Ruby, Rails
-- Testing with Rspec, Jasmine, Mocha, Karma
+- Testing with Rspec, Capybara, Jasmine, Mocha, Karma, Zombie, Casper
 
 #### Squared / Google Digital Academy (Sept 2015 to Nov 2015)
 *Certificate in Digital Marketing* [Think with Google](https://www.thinkwithgoogle.com/nordics/article/squared-online/)
