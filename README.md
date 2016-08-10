@@ -1,6 +1,6 @@
 ## Graham Ormiston
 
-In the last 5 years I've been learning a huge amount running my own small creative consultancy, [Novo](http://wearenovo.com). My role was primarily as the sole front-end developer, personally delivering over 70 sites to clients. I've also learnt how to manage projects and freelancers, how to keep a business afloat and client facing skills.
+In the last 5 years I've been learning a huge amount running my own small creative consultancy, [Novo](http://wearenovo.com). My role was primarily the sole front-end developer, personally delivering over 70 sites to clients. I also learnt how to manage projects and freelancers, how to keep a business afloat and client facing skills.
 
 I'm looking to become a full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (a 16 week intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
 
@@ -41,7 +41,7 @@ Being a front-end developer has been a major part of my working life since 2011.
 
 #### Creative problem solving
 
-In my development work I've come to realise that coding is effectively a digital form of product design - and *finding elegant solutions* to existing problems is the essence of being a good product designer. I'm a *quick debugger*, with a sharp eye for small details.
+In my development work I've come to realise that coding is effectively a digital form of product design - and *finding elegant solutions* to existing problems is the essence of being a good product designer. I'm a *quick debugger* utilising a variety of techniques to get to the bottom of an issue, with a sharp eye for small details.
 
 #### Rapid learner
 
@@ -77,11 +77,10 @@ In the last 5 years I've had the opportunity to manage small teams in a variety 
 #### Makers Academy (May 2016 to August 2016)
 *Development Bootcamp*
 
-- Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD/BDD, SOLID, MVC
 - Software Craftsmanship
-- Javascript, Node.js, Ruby, Rails
+- OOP, TDD/BDD, MVC
+- Javascript, Node.js, Ruby, Rails, Sinatra
 - Testing with Rspec, Capybara, Jasmine, Mocha, Karma, Zombie, Casper
 
 #### Squared / Google Digital Academy (Sept 2015 to Nov 2015)
