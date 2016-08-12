@@ -41,17 +41,17 @@ Being a front-end developer has been a major part of my working life since 2011.
 
 #### Creative problem solving
 
-In my development work I've come to realise that coding is effectively a digital form of product design - and *finding elegant solutions* to existing problems is the essence of being a good product designer. I'm a *quick debugger* utilising a variety of techniques to get to the bottom of an issue, with a sharp eye for small details.
+Through my development work, I've come to realise that coding is effectively a digital form of product design - and *finding elegant solutions* to existing problems is the essence of being a good product designer. I'm a *quick debugger* utilising a variety of techniques to get to the bottom of an issue, with a sharp eye for small details.
 
 #### Rapid learner
 
-I have a passion for learning - I've taught myself much of my front-end knowledge, as well as several musical instruments, videography, a little Portuguese... I'm self motivated and don't require coaxing to learn something well.
+I have a passion for learning - I've taught myself much of my front-end knowledge, as well as several musical instruments, videography, a little (Brazilian) Portuguese... I'm self motivated and don't require coaxing to learn something well.
 
-I get most excited when I'm thrown into a situation where I have to learn quickly. My time at Makers Academy in particular has taught me *how to learn* as much as anything, meaning I am better equipped to *pick up languages quickly* and explore new development topics.
+I get most excited when I'm thrown into a situation where I have to learn quickly. Above all, my time at Makers Academy taught me *how to learn any concept*, meaning I am better equipped to *pick up languages quickly* and explore new development topics.
 
 #### Comfortable team leader
 
-In the last 5 years I've had the opportunity to manage small teams in a variety of contexts, including freelancers on web projects and video shoots. I'm able to *gently motivate and encourage* team members to work towards a shared goal, and like to use an encouraging and supportive style with struggling members to help them reach their potential and gain confidence.
+In the last 5 years I've had the opportunity to manage small teams in a variety of contexts, including freelancers on web projects and video shoots. I'm able to *motivate and encourage* team members to work towards a shared goal, and I like to use an encouraging and supportive style with struggling members to help them reach their potential and gain confidence.
 
 
 ## Experience
