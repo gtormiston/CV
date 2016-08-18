@@ -117,7 +117,7 @@ Amy Green, *Innovate Product Design*
 ## Interests
 
 
-- :trumpet: I'm an **avid musician** playing trumpet, guitar, piano and drums to a high level.
+- :trumpet: I'm an **avid musician**, both composing and playing trumpet, guitar, piano and drums to a high level: [my SoundCloud profile](https://soundcloud.com/grahamormiston)
 - :sunny: Brazil, to the extent that I'm **married to a [Carioca](http://www.rio.com/practical-rio/carioca)**
 - :bike: Outdoor activities, particularly **road cycling**: [my Strava profile](https://www.strava.com/athletes/8497545)
 - :camera: **Photography** and **filming**: [my Instagram profile](https://instagram.com/gtormiston), [my videos on Vimeo](https://vimeo.com/novostudiouk)
