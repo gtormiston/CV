@@ -2,7 +2,7 @@
 
 In the last 5 years I've been learning a huge amount running my own small creative consultancy, [Novo](http://wearenovo.com). My role was primarily the sole front-end developer, personally delivering over 70 sites to clients. I also learnt how to manage projects and freelancers, how to keep a business afloat and client facing skills.
 
-I'm looking to become a full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (a 16 week intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
+I'm looking to become an employed front-end or full stack developer. Having just completed [Makers Academy](http://www.makersacademy.com/) (a 16 week intensive software development bootcamp) to further my skills, I feel ready to be incorporated into a professional environment where I can both contribute and ideally be supported in continuous learning.
 
 Skip to: [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [References](#references) | [Interests](#interests)
 
